@@ -6,7 +6,13 @@
 ---
 
 ## 🔹 YouTube Trends Dashboard (Tableau)
-🔗 [Ver dashboard en Tableau Public](https://public.tableau.com/app/profile/alejandro.ejemplo/viz/YouTubeTrends2024/DashboardPrincipal)
+https://public.tableau.com/app/profile/alejandro.cordero1150/viz/PROYECTO110625_/Dashboard1?publish=yes
+
+https://public.tableau.com/app/profile/alejandro.cordero1150/viz/PROYECTO110625_/Dashboard2?publish=yes
+
+https://public.tableau.com/app/profile/alejandro.cordero1150/viz/PROYECTO110625_/Dashboard1?publish=yes
+
+https://public.tableau.com/app/profile/alejandro.cordero1150/viz/PROYECTO110625_/Dashboard2?publish=yes
 
 **Descripción:**
 Este proyecto analiza las tendencias de videos en YouTube durante 2024, con enfoque en:
